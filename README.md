@@ -30,7 +30,7 @@ Ensure Python is installed on your system.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MasrourTawfik/Segma-Vision Agriculture.git
+   git clone https://github.com/MasrourTawfik/Segma-Vision-Agriculture.git
    ```
 
 
