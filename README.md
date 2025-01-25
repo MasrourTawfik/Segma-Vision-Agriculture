@@ -43,10 +43,7 @@ Ensure Python is installed on your system.
 3. Run the application:
 
    ```bash
-   pip install -r requirements.txt
+   streamlit run main.py
    ```
 
-4. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
+
